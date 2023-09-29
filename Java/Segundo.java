@@ -2,5 +2,5 @@ package Java;
 
 public class Segundo {
     //Segundo fichero
-    //Leche,  Huevo, Cereales
+    //Leche,  Huevo, Cereales, Papel, Pescado
 }
